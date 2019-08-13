@@ -1,0 +1,12 @@
+{
+    "company_name": "Emergent LLC", 
+    "contact_email": "jmcdonald@emergent360.com", 
+    "contact_name": "Jason McDonald", 
+    "hostname": "b8dc71be7aa8409d81ce23202ee9e462", 
+    "instance_count": 10, 
+    "license_date": 1566310856, 
+    "license_key": "0ab47f73547ff7929d993d8dd2148f63240fde6a020518b01e96f8bae4230bef", 
+    "license_type": "enterprise", 
+    "subscription_name": "Red Hat Ansible Tower, Standard (10 Managed Nodes) Trial", 
+    "trial": true
+}
